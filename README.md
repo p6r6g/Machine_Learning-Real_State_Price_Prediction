@@ -1,7 +1,7 @@
 # Machine Learning - Real State Price Prediction
-Predicting real state housing prices using Machine Learning on Kaggle 
+Predicting real state housing prices using Machine Learning on Kaggle dataset using ML models (Decision Tree & Random Forest)
 
-Gaining a solid foundation in these essential machine learning concepts :
+Using these foundational machine learning steps :
 
 - Data Cleaning & Exploration for modeling using Pandas.
 
